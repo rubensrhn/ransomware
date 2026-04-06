@@ -1,4 +1,4 @@
-# ransomware
+# Projeto DIO - Simulação de um ataque ransomware (criptografando e descriptografando os arquivos)
 Projeto DIO - Simulação de um ataque ransomware (criptografando e descriptografando os arquivos)
 
 Analista responsável: Rubens Data: 11 de Março de 2026 Tecnologias: Python 3.13, Biblioteca Cryptography (Fernet/AES-128), VS Code.
